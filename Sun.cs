@@ -9,4 +9,6 @@ public static class Sun{
       else
 	      return b;
     }
+    public int f(int a,int b)
+	    return a-b;
 }
